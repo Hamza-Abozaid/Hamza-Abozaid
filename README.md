@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamza-Abozaid
+- 👋 Hi, I’m Hamza-Abozaid (DuckRO)
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning pearson level 3
 
